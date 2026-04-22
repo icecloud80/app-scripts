@@ -1,0 +1,8 @@
+{
+  "name": "appscript-convert-comments",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node tests/convert_comments.test.js"
+  }
+}
