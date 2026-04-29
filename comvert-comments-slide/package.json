@@ -1,0 +1,9 @@
+{
+  "name": "appscript-comvert-comments-slide",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node tests/convert_comments_slide.test.js"
+  }
+}
+
